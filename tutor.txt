@@ -1,0 +1,10 @@
+Чтобы запустить скрипт, достаточно прописать
+python main.py
+
+To run the script, just write
+python main.py
+
+
+------------------------------------------
+Разработчик: https://t.me/cyber01syndicate
+Developer: https://t.me/cyber01syndicate
